@@ -1,1 +1,19 @@
+# Hotel-information-agent
+# An AI powered agent that answers the guest question for the hotel
 
+## Features
+- Answering the question about amenties
+- Answering the question abou the check out times
+- Answering the question about the restaurant hours
+
+## Architecture and technologies 
+- Azure AI Foundry
+- AModel: gpt‑5‑mini
+- Instructions: You are a helpful hotel concierge attending to guest inquiries and concerns. Be nice and have a great attitude to the customer.
+
+## demonstration
+-Placeholder
+
+## Lessons learned
+- Leared about the prompt engineering
+- Boundaries for the agent
